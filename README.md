@@ -1,26 +1,24 @@
-# Hi there 👋
+# Hi there 👋, I'm Patrick Muriungi, I'm a designer, developer and a teacher. 
 
-
-## I'm Patrick Muriungi, I'm a designer, developer and a teacher. 
-
-**I'm the lead instructor at the Vaxa Code School, Nairobi, leading Programming Bootcamp.**
 
 **I mostly work with PHP, JavaScript but have also experience with Ruby on Rails, Laravel, and others.**
 
 ### Frontend Skills
 
-![Frontend-skills](https://user-images.githubusercontent.com/11283502/91827902-2291c380-ec48-11ea-96c7-56f472bf3ba7.png)
+![Frontend-Skills](https://user-images.githubusercontent.com/11283502/91829506-39d1b080-ec4a-11ea-9d55-c9c4f68355b4.png)
 
 ### PHP Skills
 
-![index html#page6](https://user-images.githubusercontent.com/11283502/91828087-6258ab00-ec48-11ea-851d-6558c873ebd1.png)
+![PHP-Development](https://user-images.githubusercontent.com/11283502/91829539-4524dc00-ec4a-11ea-9744-2197ee4b380d.png)
 
 
-
-> If you have any web development needs, feel free to contact or get to know me a little better.
 
 ### 🔭 I'm currently am working on a project that aims to gather all logos representing African brands and organisations.(africons)
 [https://github.com/MuriungiPatrick/africons]
+
+# HAVE AN IDEA OR SOME COOL PROJECT YOU WANT DONE?
+  
+## Let's Talk
 
 💬
 <!--
