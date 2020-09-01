@@ -5,11 +5,11 @@
 
 ### Frontend Skills
 
-![Frontend-Skills](https://user-images.githubusercontent.com/11283502/91829506-39d1b080-ec4a-11ea-9d55-c9c4f68355b4.png)
+![Frontend-Skills-1](https://user-images.githubusercontent.com/11283502/91830597-a6997a80-ec4b-11ea-97d6-327700615135.png)
 
 ### PHP Skills
 
-![PHP-Development](https://user-images.githubusercontent.com/11283502/91829539-4524dc00-ec4a-11ea-9744-2197ee4b380d.png)
+![PHP-Skills](https://user-images.githubusercontent.com/11283502/91830660-be70fe80-ec4b-11ea-973f-c783dfafb998.png)
 
 
 
