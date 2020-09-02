@@ -13,7 +13,7 @@
 
 
 
-### 🔭 I'm currently am working on a **WEB ICONS** project that aims to gather all logos representing African brands and organisations. ![africons](https://github.com/MuriungiPatrick/africons)
+### 🔭 I'm currently am working on a **WEB ICONS** project that aims to gather all logos representing African brands and organisations. [africons](https://github.com/MuriungiPatrick/africons)
 
 ### HAVE AN IDEA OR SOME COOL PROJECT YOU WANT DONE? Let's Talk
   
