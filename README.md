@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Patrick Muriungi, I'm a Designer, Developer and a teacher. 
 
 
-**I mostly work with PHP, JavaScript but have also experience with Ruby on Rails, Laravel, and others.**
+### I mostly work with PHP and JavaScript but have also experience with Ruby on Railsm and Laravel.
 
 ## Frontend Skills
 
