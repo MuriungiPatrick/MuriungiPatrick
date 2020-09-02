@@ -10,7 +10,7 @@
 
 ![PHP-Skills](https://user-images.githubusercontent.com/11283502/91830660-be70fe80-ec4b-11ea-973f-c783dfafb998.png)
 
-### 🔭 I'm currently working on an open-source *WEB ICONS* project that aims to create icons for all logos representing *African brands and organisations.* [africons](https://github.com/MuriungiPatrick/africons)
+### 🔭 I'm currently working on an open-source project that aims to create *WEB ICONS* for all logos representing *African brands and organisations.* [africons](https://github.com/MuriungiPatrick/africons)
 
 ### HAVE AN IDEA OR SOME COOL PROJECT YOU WANT DONE? Let's Talk
   
