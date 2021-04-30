@@ -1,6 +1,6 @@
 # Hi there 👋, 
 
-#### I'm Patrick Muriungi, I'm a Designer, Developer and a teacher.  I Build websites and Mobile Apps.
+#### I'm Patrick Muriungi, I'm a Designer, Developer and a tutor.  I Build websites and Mobile Apps.
 
 #### I mostly work with PHP and JavaScript but have also experience with Ruby on Rails and Laravel.
 
