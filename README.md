@@ -1,6 +1,6 @@
-# Hi there 👋, 
+# Hi there 👋, Patrick Muriungi here.
 
- I'm Patrick Muriungi, I'm a Designer, Developer and a Trainer.  I Build build cool things with code. 💻
+ I'm a Designer, Developer and a Trainer.  I have a passion for teaching others gain useful skills and Build build cool things with code. 💻
 
  I mostly work with PHP and JavaScript but have also experience with Ruby on Rails and Laravel.
 
