@@ -20,7 +20,7 @@
 ### Skills and Tools 🔗
 
 ![React JS](https://user-images.githubusercontent.com/11283502/123598137-dd550880-d7fc-11eb-8851-b8147fca9e06.png)![Wordpress](https://user-images.githubusercontent.com/11283502/123598145-df1ecc00-d7fc-11eb-9355-2faacb7773ac.png)![PHP](https://user-images.githubusercontent.com/11283502/123598146-dfb76280-d7fc-11eb-96d2-38ac1f20579a.png)![Javascript](https://user-images.githubusercontent.com/11283502/123598149-e04ff900-d7fc-11eb-90ec-77d77c3cf8b4.png)![HTML 5](https://user-images.githubusercontent.com/11283502/123598157-e0e88f80-d7fc-11eb-9a3e-8617399a921d.png)![Bootstrap](https://user-images.githubusercontent.com/11283502/123598164-e219bc80-d7fc-11eb-9309-1786a8813173.png)![CSS3](https://user-images.githubusercontent.com/11283502/123598168-e34ae980-d7fc-11eb-98d3-d8562169fea2.png)
-<img width="24" alt="adobe_xd" src="https://user-images.githubusercontent.com/11283502/123601683-a254d400-d800-11eb-8342-17961a45ac51.png">
+<img width="48" alt="adobe_xd" src="https://user-images.githubusercontent.com/11283502/123601683-a254d400-d800-11eb-8342-17961a45ac51.png">
 ![](https://user-images.githubusercontent.com/11283502/123601725-ae409600-d800-11eb-9c89-4cd56287d8ed.png)
 ![figma](https://user-images.githubusercontent.com/11283502/123601731-af71c300-d800-11eb-8f04-a9d941a00330.png)
 ![laravel](https://user-images.githubusercontent.com/11283502/123601735-af71c300-d800-11eb-9745-0dbcd4bd867b.png)
