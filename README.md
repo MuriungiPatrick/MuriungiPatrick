@@ -1,4 +1,4 @@
-# Hi there 👋, Patrick Muriungi here.
+# Hi there 👋, Patrick here.
 
  I'm a Designer, Developer and a Trainer.  I have a passion for teaching others gain useful skills and Build build cool things with code. 💻
 
