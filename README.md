@@ -11,17 +11,13 @@
 
 #### HAVE AN IDEA OR SOME COOL PROJECT YOU WANT DONE? Let's Talk
   
-### Let's Connect 🔗
+  💬
+  ### Let's Connect 🔗
 
 [![](https://user-images.githubusercontent.com/11283502/123594840-d926ec00-d7f8-11eb-90f8-0e0c6834d4a3.png)](http://twitter.com/itsMuriungi])
-
-[![](https://user-images.githubusercontent.com/11283502/123594836-d926ec00-d7f8-11eb-9569-69be265c1575.png)](https://www.linkedin.com/in/patrick-muriungi/)
-
-[![](https://user-images.githubusercontent.com/11283502/123594830-d75d2880-d7f8-11eb-8089-fb3ae3657062.png)](http://youtube.com/c/VaxaCode])
+[![](https://user-images.githubusercontent.com/11283502/123594836-d926ec00-d7f8-11eb-9569-69be265c1575.png)](https://www.linkedin.com/in/patrick-muriungi/)[![](https://user-images.githubusercontent.com/11283502/123594830-d75d2880-d7f8-11eb-8089-fb3ae3657062.png)](http://youtube.com/c/VaxaCode])
 
 
-
-💬
 <!--
 **MuriungiPatrick/MuriungiPatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
