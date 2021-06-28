@@ -7,7 +7,8 @@
 
 <!-- #### 🔭 I'm currently working on an open-source called [africons](https://github.com/MuriungiPatrick/africons) a project that aims to create *WEB ICONS* for all logos representing *African brands and organisations.*  -->
 
-💼 Have an freelance work or some cool project you want done? reach me on my email[] :)
+💼 Have any freelance work or some cool project you want done? reach me on my email :).
+
 💬 Ask me about anything, I am happy to help;
   
   ### Let's Connect 🔗
