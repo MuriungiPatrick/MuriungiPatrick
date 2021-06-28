@@ -13,8 +13,12 @@
   
 ### Let's Connect 🔗
 
-[![](https://user-images.githubusercontent.com/11283502/123591547-cdd1c180-d7f4-11eb-80d8-9957a5fb9ce9.png)](https://www.linkedin.com/in/patrick-muriungi/)
-[![](https://user-images.githubusercontent.com/11283502/123591821-22753c80-d7f5-11eb-8f80-addf842ee8c9.png)](http://youtube.com/c/VaxaCode])
+[![](https://user-images.githubusercontent.com/11283502/123594840-d926ec00-d7f8-11eb-90f8-0e0c6834d4a3.png)](http://twitter.com/itsMuriungi])
+
+[![](https://user-images.githubusercontent.com/11283502/123594836-d926ec00-d7f8-11eb-9569-69be265c1575.png)](https://www.linkedin.com/in/patrick-muriungi/)
+
+[![](https://user-images.githubusercontent.com/11283502/123594830-d75d2880-d7f8-11eb-8089-fb3ae3657062.png)](http://youtube.com/c/VaxaCode])
+
 
 
 💬
