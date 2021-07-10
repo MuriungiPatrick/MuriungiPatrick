@@ -15,7 +15,7 @@
 
  [Twitter]( http://twitter.com/itsMuriungi)
  [Youtube channel](http://youtube.com/c/VaxaCode)
- (<a href="https://www.buymeacoffee.com/muriungipatrick" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 27px !important;" ></a>)
+ <a href="https://www.buymeacoffee.com/muriungipatrick"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muriungipatrick&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 <!-- 
 [![](https://user-images.githubusercontent.com/11283502/123594840-d926ec00-d7f8-11eb-90f8-0e0c6834d4a3.png)](http://twitter.com/itsMuriungi])
 [![](https://user-images.githubusercontent.com/11283502/123594836-d926ec00-d7f8-11eb-9569-69be265c1575.png)](https://www.linkedin.com/in/patrick-muriungi-835476b4/)[![](https://user-images.githubusercontent.com/11283502/123594830-d75d2880-d7f8-11eb-8089-fb3ae3657062.png)](http://youtube.com/c/VaxaCode])![](https://user-images.githubusercontent.com/11283502/123609815-b0a6ee00-d808-11eb-93b4-78f703e5c95d.png)
