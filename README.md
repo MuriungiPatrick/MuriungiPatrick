@@ -1,22 +1,25 @@
 # Hi there 👋, Patrick here.
 
- I'm a Designer, Developer and a Trainer.  I have a passion for teaching others gain useful skills and Build build cool things with code. 💻
+ I'm a Designer, Developer and a Trainer.  I have a passion for teaching others gain useful skills and Build cool things with code. 💻
 
  I mostly work with PHP and JavaScript but have also experience with Ruby on Rails and Laravel.
 
 
 <!-- #### 🔭 I'm currently working on an open-source called [africons](https://github.com/MuriungiPatrick/africons) a project that aims to create *WEB ICONS* for all logos representing *African brands and organisations.*  -->
 
-💼 Have any freelance work or some cool project you want done? reach me on my email :).
+<!-- 💼 Have any freelance work or some cool project you want done? reach me on my email :). -->
 
 💬 Ask me about anything, I am happy to help;
   
   ### Let's Connect 🔗
 
+  Twitter   : http://twitter.com/itsMuriungi
+  Youtube : http://youtube.com/c/VaxaCode
+<!-- 
 [![](https://user-images.githubusercontent.com/11283502/123594840-d926ec00-d7f8-11eb-90f8-0e0c6834d4a3.png)](http://twitter.com/itsMuriungi])
 [![](https://user-images.githubusercontent.com/11283502/123594836-d926ec00-d7f8-11eb-9569-69be265c1575.png)](https://www.linkedin.com/in/patrick-muriungi-835476b4/)[![](https://user-images.githubusercontent.com/11283502/123594830-d75d2880-d7f8-11eb-8089-fb3ae3657062.png)](http://youtube.com/c/VaxaCode])![](https://user-images.githubusercontent.com/11283502/123609815-b0a6ee00-d808-11eb-93b4-78f703e5c95d.png)
 ![](https://user-images.githubusercontent.com/11283502/123609821-b1d81b00-d808-11eb-904d-2405ce3ecf59.png)
-![](https://user-images.githubusercontent.com/11283502/123609824-b270b180-d808-11eb-9356-054252e1d744.png)
+![](https://user-images.githubusercontent.com/11283502/123609824-b270b180-d808-11eb-9356-054252e1d744.png) -->
 
 ### Languages and Tools 🔗
 
