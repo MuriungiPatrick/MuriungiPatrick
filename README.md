@@ -19,7 +19,7 @@
 
  [My Youtube channel](http://youtube.com/c/VaxaCode)
 
- [<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji](https://www.buymeacoffee.com/muriungipatrick)
+ [Buy me a coffee](https://www.buymeacoffee.com/muriungipatrick)
 
 
 <!--
